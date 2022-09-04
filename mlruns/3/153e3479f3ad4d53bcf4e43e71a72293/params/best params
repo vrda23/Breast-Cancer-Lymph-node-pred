@@ -1,0 +1,1 @@
+{'booster': 'dart', 'learning_rate': 0.26768847945234403, 'max_depth': 87, 'min_child_weight': 56.85506174392849, 'max_delta_step': 28.775437378416072, 'gamma': 14.871401529515584, 'colsample_bytree': 0.15786228166005692, 'subsample': 0.06570955641747768}
