@@ -1,0 +1,1 @@
+{'n_estimators': {'type': 'Integer', 'low': 0, 'high': 2000}, 'learning_rate': {'type': 'Real', 'low': 0, 'high': 0.4}, 'max_depth': {'type': 'Integer', 'low': 30, 'high': 100}, 'min_child_weight': {'type': 'Real', 'low': 0, 'high': 100}, 'max_delta_step': {'type': 'Real', 'low': 0, 'high': 100}, 'subsample': {'type': 'Real', 'low': 0, 'high': 1}}

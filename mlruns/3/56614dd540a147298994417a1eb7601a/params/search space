@@ -1,1 +1,0 @@
-[Real(low=0, high=0.4, prior='uniform', transform='normalize'), Integer(low=30, high=100, prior='uniform', transform='normalize'), Real(low=0, high=100, prior='uniform', transform='normalize'), Real(low=0, high=100, prior='uniform', transform='normalize'), Real(low=0, high=10, prior='uniform', transform='normalize'), Real(low=0, high=1, prior='uniform', transform='normalize')]
